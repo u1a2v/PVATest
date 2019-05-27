@@ -1,6 +1,6 @@
 {
-    "short_name": "PVATest",
-    "name": "PVA test",
+    "short_name": "PWATest",
+    "name": "PWA test",
     "icons": [
       {
         "src": "/img/192x192.png",
