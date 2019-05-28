@@ -3,19 +3,19 @@
     "name": "PWA test",
     "icons": [
       {
-        "src": "/img/192x192.png",
+        "src": "img/192x192.png",
         "type": "image/png",
         "sizes": "192x192"
       },
       {
-        "src": "/img/512x512.png",
+        "src": "img/512x512.png",
         "type": "image/png",
         "sizes": "512x512"
       }
     ],
-    "start_url": "/",
+    "start_url": "",
     "background_color": "#EEE",
     "display": "standalone",
-    "scope": "/",
+    "scope": "",
     "theme_color": "#EEE"
   }
